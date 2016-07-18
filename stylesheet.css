@@ -1,0 +1,72 @@
+body {
+  background: url("images/mpls-skyline.jpg") no-repeat;
+  background-size: cover;
+  /*font-family: 'Handlee', cursive;*/
+  /*font-family: 'Architects Daughter', cursive;*/
+  /*font-family: 'Calligraffitti', cursive;*/
+  /*font-family: 'Neucha', cursive;*/
+  /*font-family: 'Rancho', cursive;*/
+  /*font-family: 'Berkshire Swash', cursive;*/
+  /*font-family: 'Delius', cursive;*/
+  /*font-family: 'Aladin', cursive;*/
+  /*font-family: 'Fondamento', cursive;*/
+  /*font-family: 'Eagle Lake', cursive;*/
+  font-family: 'Cabin', sans-serif;
+}
+
+.jumbotron {
+  color: #29404E;
+  text-shadow: 2px 2px #BBC2C6;
+  font-weight: bold;
+  background-color: transparent;
+  text-align: center;
+  padding: 25px;
+}
+.description {
+  text-decoration: none;
+}
+img {
+  height: 175px;
+  /*margin-right: 200px;*/
+  border: 4px solid #77848D;
+  box-shadow: 0 0 15px #3E3D43;
+}
+h1 {
+  display: inline-block;
+  text-decoration: underline;
+}
+h2 {
+  color: #E2EFF9;
+  text-shadow: 2px 2px #29404E;
+  font-weight: bold;
+}
+h3 {
+  text-decoration: underline;
+}
+p {
+  display: inline-block;
+  padding: 20px;
+}
+.container {
+  background-color: transparent;
+  padding-left: 50px;
+  text-align: center;
+}
+a {
+  margin: 10px;
+  padding: 5px;
+  color: #E2EFF9;
+}
+content {
+  text-align: center;
+  color: #29404E;
+  text-shadow: 1px 1px #BBC2C6;
+}
+ul {
+  list-style: none;
+}
+.links {
+  color: #29404E;
+  text-shadow: 1px 1px #BBC2C6;
+  font-size: 16px;
+}
